@@ -1,0 +1,34 @@
+The player walks up in a room
+    There are 5 objects in the room
+    -A bookshelf
+        -A long book- use book to get the code(riddle is code)
+        -A short book- has blue key inside
+    -A locker
+        -use locker: locker prompts user for code 
+            -in locker there is are wings 
+            -use wings to fly to top of bookshelf for red key
+    -A door
+        -Use door it is locker
+        -must use key to open door
+        -Use door it is open you win 
+    - Window 
+        -Use window it is locked
+        -need blue key for wind
+        -When you unlock window you fall to death
+        -When you use window with wings you fly out of window and win
+    -Bed
+        -can rest in bed
+        -cant examine books or locker until you rest 
+     There are three other objects
+    -Keys
+        - can use key to open doors
+    -Wings
+        -can use wings to make user fly 
+    -User
+        -can use all the other objects 
+        -can walk
+        -can fly with wings
+        -can examine objects 
+        -has an inventory 
+    -Wand 
+        -The wand can strink and grow other objects
